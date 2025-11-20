@@ -5,8 +5,8 @@ Hi there! This is a portfolio project where I dive deep into a Telecom dataset t
 ## 📂 Files in this Repo
 * `Churn Project.pbix`: The interactive Power BI Dashboard containing the final strategic analysis.
 * `Churn Data.csv`: The raw dataset used for this analysis.
-* `notebooks/`: Contains the Python code used for the Survival Analysis (Kaplan-Meier).
-* `images/`: Static exports of the visualizations.
+* `code.ipynb`: Contains the Python code used for the Survival Analysis (Kaplan-Meier).
+* `Kaplan-Meier Curve.png`: Static exports of the visualizations.
 
 ## 🛠️ The Tech Stack
 * **Python (Pandas & Lifelines):** Used for preprocessing and running a Kaplan-Meier Survival Analysis to determine *when* customers are most likely to churn.
